@@ -1,0 +1,15 @@
+C:\Users\rober\Documents\C# Class\Shopping List Lab\bin\Debug\net6.0\Shopping List Lab.exe
+C:\Users\rober\Documents\C# Class\Shopping List Lab\bin\Debug\net6.0\Shopping List Lab.deps.json
+C:\Users\rober\Documents\C# Class\Shopping List Lab\bin\Debug\net6.0\Shopping List Lab.runtimeconfig.json
+C:\Users\rober\Documents\C# Class\Shopping List Lab\bin\Debug\net6.0\Shopping List Lab.dll
+C:\Users\rober\Documents\C# Class\Shopping List Lab\bin\Debug\net6.0\Shopping List Lab.pdb
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.csproj.AssemblyReference.cache
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.AssemblyInfo.cs
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.dll
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\refint\Shopping List Lab.dll
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.pdb
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\Shopping List Lab.genruntimeconfig.cache
+C:\Users\rober\Documents\C# Class\Shopping List Lab\obj\Debug\net6.0\ref\Shopping List Lab.dll
